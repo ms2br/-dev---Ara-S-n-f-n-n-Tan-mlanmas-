@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ödev - Araç Sınıfının Tanımlanması", "Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması.csproj", "{5D603ED2-8EF5-4731-815A-69E1B15C77EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D603ED2-8EF5-4731-815A-69E1B15C77EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D603ED2-8EF5-4731-815A-69E1B15C77EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D603ED2-8EF5-4731-815A-69E1B15C77EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D603ED2-8EF5-4731-815A-69E1B15C77EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441B9EE3-4B1E-4676-A664-23009BA2E2FE}
+	EndGlobalSection
+EndGlobal

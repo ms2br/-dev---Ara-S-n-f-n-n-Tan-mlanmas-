@@ -1,0 +1,7 @@
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\bin\Debug\Ödev - Araç Sınıfının Tanımlanması.exe.config
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\bin\Debug\Ödev - Araç Sınıfının Tanımlanması.exe
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\bin\Debug\Ödev - Araç Sınıfının Tanımlanması.pdb
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\obj\Debug\Ödev - Araç Sınıfının Tanımlanması.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\obj\Debug\Ödev - Araç Sınıfının Tanımlanması.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\obj\Debug\Ödev - Araç Sınıfının Tanımlanması.exe
+D:\C#\ConsoleApp1\Ödev - Araç Sınıfının Tanımlanması\Ödev - Araç Sınıfının Tanımlanması\obj\Debug\Ödev - Araç Sınıfının Tanımlanması.pdb
